@@ -1,26 +1,22 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Lahouaoui Islam
 
-🎓 **Computer Science Student** | 📱 **Mobile Developer (Flutter & Swift)** | 💻 **Passionate About AI & Tech Entrepreneurship**
+🎓 **Computer Science Student** | 📱 **Mobile Developer (Flutter)** | 💻 **Passionate About AI & Tech Entrepreneurship**
 
 ## 🚀 About Me  
-I'm a **computer science student at Paris-Saclay University**, passionate about mobile development, artificial intelligence, and tech entrepreneurship. I love exploring new technologies and sharing my journey with others through social media.
+I'm a **computer science student at Paris-Saclay University**, passionate about mobile development, artificial intelligence, and tech entrepreneurship. 
 
 - 📌 **Currently in my 2nd year of Computer Science studies**  
-- 💡 **Mobile Development: Flutter & Swift**  
+- 💡 **Mobile Development: Flutter **  
 - 🤖 **Exploring AI applications in mobile development**  
-- 🛒 **Entrepreneurial project: Selling refurbished PCs & building a tech brand (TechLa)**  
-- 🎥 **Content creation on YouTube, TikTok & Instagram (tech, lifestyle, coding)**  
 
 ## 🛠️ Skills  
-- **Languages**: Java, C++, Python, Dart (Flutter), Swift  
-- **Mobile Development**: Flutter, Swift (iOS)  
-- **Graphics & 3D**: Processing  
+- **Languages**: Java, C++, Python, Dart (Flutter)  
+- **Mobile Development**: Flutter (iOS & Android)  
+- **Graphics & 3D**: Processing , figma , illustrator
 - **Other**: Git/GitHub, VS Code, Xcode, Firebase, UI/UX  
 
 ## 📂 Current Projects  
-🔹 **[Flutter Project Name]**: A custom to-do list app built with Flutter.  
-🔹 **[TechLa]**: Developing a brand and platform for selling refurbished PCs.  
-🔹 **[Swift Project Name]**: A complete iOS app built with Swift.  
+🔹 **[Rock-Paper-Scissors Game]**: A basic gameplay with computer with simple beautiful UI.  
 
 ## 📢 Follow Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
