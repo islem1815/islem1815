@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lahouaoui Islam
 
-🎓 **Computer Science Student** | 📱 **Mobile Developer (Flutter)** | 💻 **Passionate About AI & Tech Entrepreneurship**
+🎓 **Computer Science Student in Paris** | 📱 **Mobile Developer (Flutter)** | 💻 **Passionate About AI & Tech Entrepreneurship**
 
 ## 🚀 About Me  
 I'm a **computer science student at Paris-Saclay University**, passionate about mobile development, artificial intelligence, and tech entrepreneurship. 
