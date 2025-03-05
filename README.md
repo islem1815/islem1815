@@ -16,7 +16,7 @@ I'm a **computer science student at Paris-Saclay University**, passionate about 
 - **Other**: Git/GitHub, VS Code, Xcode, Firebase, UI/UX  
 
 ## 📂 Current Projects  
-🔹 **[Rock-Paper-Scissors Game]**: A basic gameplay with computer with simple beautiful UI.  
+🔹 **[Quizzler]**: An advanced QuizApp packed with powerful features, allowing you to create, manage, and enhance your quizzes using AI.  
 
 
 💬 **I'm open to collaborations and new opportunities!** Feel free to reach out. 🚀
